@@ -1,5 +1,5 @@
 # Numerical_Analysis<br>
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/rohandubey/Numerical_AnalysisFacial-Expression-Recognition/blob/master/LICENSE) ![pypi](https://img.shields.io/pypi/v/pybadges.svg) ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg) [![PyPI status](https://img.shields.io/pypi/status/trains-jupyter-plugin.svg)](https://pypi.python.org/pypi/trains-jupyter-plugin/) 
+[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/rohandubey/Numerical_Analysis/blob/master/LICENSE) ![pypi](https://img.shields.io/pypi/v/pybadges.svg) ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg) [![PyPI status](https://img.shields.io/pypi/status/trains-jupyter-plugin.svg)](https://pypi.python.org/pypi/trains-jupyter-plugin/) 
 <br></br>
 # Introduction
 A compilation of python/C++ codes on different Numerical Analysis techniques.
